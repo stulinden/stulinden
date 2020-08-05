@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Twitter = @StuartLindenJr & IG = @stulinden39
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love to play Golf
 -->
