@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**stulinden/stulinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there my name is Stu and I am an aspiring Front End Developer 👋
 
 - 🔭 I’m currently working on ... up and coming Front End Developer 
 - 🌱 I’m currently learning ... HTML5, CSS3 & JS
